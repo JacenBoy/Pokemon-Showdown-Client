@@ -17,7 +17,7 @@
   "devDependencies": {
     "@types/node": "^8.0.7",
     "eslint": "^4.11.0",
-    "testcafe": "^0.18.4"
+    "testcafe": "^2.2.0"
   },
   "private": true
 }
